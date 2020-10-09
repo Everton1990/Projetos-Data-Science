@@ -5,7 +5,7 @@
 </p>
 
 # Everton Machado
-<sub>**Ciência da Computação*</sub></br>
+<sub>**Ciência da Computação**</sub></br>
 <sub>**Cursando Pós Graduação - Data Science**</sub>
 
 
