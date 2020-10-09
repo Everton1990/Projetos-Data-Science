@@ -5,8 +5,8 @@
 </p>
 
 # Everton Machado
-<sub>*Ciência da Computação</sub></br>
-<sub>*Cursando Pós Graduação - Data Science</sub>
+<sub>**Ciência da Computação*</sub></br>
+<sub>**Cursando Pós Graduação - Data Science**</sub>
 
 
 **Background in:** Java, Python, Power BI e  Machine Learning.
