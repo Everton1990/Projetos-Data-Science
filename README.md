@@ -19,5 +19,5 @@
 
 ## Projetos:
 
-* **  Análise de crimes na cidade de São Paulo**
+* **Análise de crimes na cidade de São Paulo**
 ---
