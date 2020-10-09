@@ -9,7 +9,7 @@
 <sub>*Cursando Pós Graduação - Data Science</sub>
 
 
-**Background in:** Python, Java, Machine Learning.
+**Background in:** Java, Python, Power BI e  Machine Learning.
 
 **Links:**
 * [Blog]()
@@ -18,8 +18,6 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-
+* **  Análise de crimes na cidade de São Paulo**
 ---
